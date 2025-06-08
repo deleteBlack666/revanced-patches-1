@@ -2077,7 +2077,7 @@
 	<string name="revanced_swipe_overlay_progress_seek_color_title">Зміна кольору під час перемотування</string>
 	<string name="revanced_swipe_overlay_progress_seek_color_summary">Зміна кольору при перемотування по жесту</string>
 	<string name="revanced_swipe_text_overlay_size_title">Розмір тексту при жесту</string>
-	<string name="revanced_swipe_text_overlay_size_summary">Розмір тексту для при свайпі, що висвітлюється коли використовуєте жести, від 1 до 30</string>
+	<string name="revanced_swipe_text_overlay_size_summary">Розмір тексту, що висвітлюється коли використовуєте жести, від 1 до 30</string>
 	<string name="revanced_swipe_overlay_style_title">Стиль жестів</string>
 	<string name="revanced_swipe_overlay_style_entry_1">Звичайне (Нове)</string>
 	<string name="revanced_swipe_overlay_style_entry_2">Мінімальне (мінімальне - зверху)</string>
